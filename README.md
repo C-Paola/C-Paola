@@ -9,7 +9,7 @@ I am Paola Castro, Senior Bachelor Student of Electronics Engineering at Francis
 
 - ✔I’m currently working on machine learning applied to renewable energies.
 - ✔I have worked in projects on Python and Matlab.
-- ✔I'm looking to collaborate on machine learning, data science and computer vision.
+- ✔I'm looking to collaborate on machine learning and data analysis.
 
 
 ## 📌 Languages and Tools
