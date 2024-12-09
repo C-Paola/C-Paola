@@ -1,9 +1,9 @@
 ### Hi everyone! 🌎👋
 
-I am Paola Castro, Senior Bachelor Student of Electronics Engineering at Francisco de Paula Santander University.
+I am Paola Castro, Electronics Engineer.
 
 📫 You can reach me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paola-andrea-castro-correa-02471a234/)  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/C-Paola)  [![Gmail](https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:paolaandreacaco@ufps.edu.co)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paola-andrea-castro-correa-02471a234/)  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/C-Paola)  [![Gmail](https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:castro@udel.edu)
 
 ### About me
 
